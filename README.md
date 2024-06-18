@@ -1,7 +1,7 @@
-#To-Do List Application
+#**To-Do List Application**
 An interactive To-Do List application built in Java using Swing for graphical representation.
 
-###Overview:
+##Overview:
 This project implements a graphical To-Do list that allows users to manage their tasks. It provides functionalities to add, delete, pin tasks, and add due dates. The application offers a simple and intuitive interface for efficient task management.
 
 ###Features:
