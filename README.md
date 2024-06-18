@@ -9,4 +9,4 @@ This project implements a graphical To-Do list that allows users to manage their
 - **Add Task**: Users can add new tasks to the list.
 - **Delete Task**: Users can delete selected tasks from the list.
 - __Pin Task__: Users can pin important tasks to the top of the list.
--__Add Due Date__: Users can add a due date to the selected task.
+- __Add Due Date__: Users can add a due date to the selected task.
